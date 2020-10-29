@@ -7,3 +7,7 @@
 ‣ Day 2 - Java - Operators
 
 ‣ Day 3 - C -  Conditional Statements
+
+‣ Day 4 - Java -  Class vs. Instance
+
+‣ Day 5 - C -  Loops
