@@ -11,3 +11,7 @@
 ‣ Day 4 - Java -  Class vs. Instance
 
 ‣ Day 5 - C -  Loops
+
+‣ Day 6 - C -  Let's Review
+
+‣ Day 7 - C -  Arrays
