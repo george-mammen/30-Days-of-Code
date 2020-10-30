@@ -16,7 +16,6 @@ int main() {
             if (i % 2 == 0) {
                 cout << str[i];
             }
-            
         }
 
         cout << " ";
@@ -29,6 +28,4 @@ int main() {
 
         cout << endl;
     }
-
-    return 0;
 }
