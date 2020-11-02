@@ -18,4 +18,6 @@
 
 ‣ Day 8 - C++ - Dictionaries and Maps
 
-‣ Day 7 - C -  Recursion
+‣ Day 9 - C -  Recursion
+
+‣ Day 10 - C -  Binary Number
