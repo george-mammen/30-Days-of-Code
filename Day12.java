@@ -23,18 +23,16 @@ class Person {
 
 class Student extends Person {
     private int[] testScores;
-
     Student(String firstName, String lastName, int id, int[] testScores) {
         super(firstName, lastName, id );
-
         this.testScores = testScores;
     }
 
     char calculate() {
         int total = 0;
-
-        for (int testScore : testScores) total += testScore;
-
+        for (int testScore : testScores) {
+		total = total + testScore;
+	}
         int avg = total / testScores.length;
 
         if (avg >= 90 && avg <= 100) return 'O';
