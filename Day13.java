@@ -9,10 +9,6 @@ Task : Given a Book class and a Solution class, write a MyBook class that does t
                  , a space, and then the current instance's .
                  , a space, and then the current instance's .
                  , a space, and then the current instance's .
-
-
-
-
 */
 
 import java.util.*;
