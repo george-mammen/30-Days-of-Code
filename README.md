@@ -27,3 +27,7 @@
 ‣ Day 12 - Java - Inheritance
 
 ‣ Day 13 - Java - Abstract classes
+
+‣ Day 14 - Java - Linked List
+
+‣ Day 15 - Java - String to Integer
