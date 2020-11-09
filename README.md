@@ -28,6 +28,10 @@
 
 ‣ Day 13 - Java - Abstract classes
 
-‣ Day 14 - Java - Linked List
+‣ Day 14 - Java - Scope
 
-‣ Day 15 - Java - String to Integer
+‣ Day 15 - Java - Linked List
+
+‣ Day 16 - Java - Exception - String to Integer
+
+‣ Day 17 - Java - More Exception
