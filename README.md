@@ -36,7 +36,7 @@
 
 ‣ Day 17 - Java - More Exception
 
-‣ Day 18 - C - Queues & Stacks
+‣ Day 18 - Java - Queues & Stacks
 
 ‣ Day 19 - Java - Interface
 
