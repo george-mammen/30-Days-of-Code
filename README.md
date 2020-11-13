@@ -41,3 +41,5 @@
 ‣ Day 19 - Java - Interface
 
 ‣ Day 20 - Java - Sorting
+
+‣ Day 21 - Java - Generics
