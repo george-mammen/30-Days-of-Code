@@ -45,3 +45,17 @@
 ‣ Day 21 - Java - Generics
 
 ‣ Day 22 - C - Binary Search Trees
+
+‣ Day 23 - C - BST - Level Order Transversal
+
+‣ Day 24 - C - More Linked List
+
+‣ Day 25 - C - Space and Time Complexity
+
+‣ Day 26 - Java - Nested Logic
+
+‣ Day 27 - Java - Testing
+
+‣ Day 28 - C - RegEx, Patterns and Intro to Database
+
+‣ Day 29 - C - Bitwise AND
