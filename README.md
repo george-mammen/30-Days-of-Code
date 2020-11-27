@@ -52,7 +52,7 @@
 
 ‣ Day 25 - C - Space and Time Complexity
 
-‣ Day 26 - Java - Nested Logic
+‣ Day 26 - C - Nested Logic
 
 ‣ Day 27 - Java - Testing
 
